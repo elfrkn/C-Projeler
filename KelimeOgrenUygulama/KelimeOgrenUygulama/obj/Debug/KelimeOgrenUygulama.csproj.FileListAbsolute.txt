@@ -1,0 +1,11 @@
+C:\Users\furkan çalış\Desktop\25PROJE\KelimeOgrenUygulama\KelimeOgrenUygulama\bin\Debug\KelimeOgrenUygulama.exe.config
+C:\Users\furkan çalış\Desktop\25PROJE\KelimeOgrenUygulama\KelimeOgrenUygulama\bin\Debug\KelimeOgrenUygulama.exe
+C:\Users\furkan çalış\Desktop\25PROJE\KelimeOgrenUygulama\KelimeOgrenUygulama\bin\Debug\KelimeOgrenUygulama.pdb
+C:\Users\furkan çalış\Desktop\25PROJE\KelimeOgrenUygulama\KelimeOgrenUygulama\obj\Debug\KelimeOgrenUygulama.csproj.AssemblyReference.cache
+C:\Users\furkan çalış\Desktop\25PROJE\KelimeOgrenUygulama\KelimeOgrenUygulama\obj\Debug\KelimeOgrenUygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan çalış\Desktop\25PROJE\KelimeOgrenUygulama\KelimeOgrenUygulama\obj\Debug\KelimeOgrenUygulama.Form1.resources
+C:\Users\furkan çalış\Desktop\25PROJE\KelimeOgrenUygulama\KelimeOgrenUygulama\obj\Debug\KelimeOgrenUygulama.Properties.Resources.resources
+C:\Users\furkan çalış\Desktop\25PROJE\KelimeOgrenUygulama\KelimeOgrenUygulama\obj\Debug\KelimeOgrenUygulama.csproj.GenerateResource.cache
+C:\Users\furkan çalış\Desktop\25PROJE\KelimeOgrenUygulama\KelimeOgrenUygulama\obj\Debug\KelimeOgrenUygulama.csproj.CoreCompileInputs.cache
+C:\Users\furkan çalış\Desktop\25PROJE\KelimeOgrenUygulama\KelimeOgrenUygulama\obj\Debug\KelimeOgrenUygulama.exe
+C:\Users\furkan çalış\Desktop\25PROJE\KelimeOgrenUygulama\KelimeOgrenUygulama\obj\Debug\KelimeOgrenUygulama.pdb
