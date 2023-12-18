@@ -1,0 +1,11 @@
+C:\Users\furkan çalış\Desktop\25PROJE\RSS_Haber_cekme\RSS_Haber_cekme\bin\Debug\RSS_Haber_cekme.exe.config
+C:\Users\furkan çalış\Desktop\25PROJE\RSS_Haber_cekme\RSS_Haber_cekme\bin\Debug\RSS_Haber_cekme.exe
+C:\Users\furkan çalış\Desktop\25PROJE\RSS_Haber_cekme\RSS_Haber_cekme\bin\Debug\RSS_Haber_cekme.pdb
+C:\Users\furkan çalış\Desktop\25PROJE\RSS_Haber_cekme\RSS_Haber_cekme\obj\Debug\RSS_Haber_cekme.csproj.AssemblyReference.cache
+C:\Users\furkan çalış\Desktop\25PROJE\RSS_Haber_cekme\RSS_Haber_cekme\obj\Debug\RSS_Haber_cekme.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan çalış\Desktop\25PROJE\RSS_Haber_cekme\RSS_Haber_cekme\obj\Debug\RSS_Haber_cekme.Form1.resources
+C:\Users\furkan çalış\Desktop\25PROJE\RSS_Haber_cekme\RSS_Haber_cekme\obj\Debug\RSS_Haber_cekme.Properties.Resources.resources
+C:\Users\furkan çalış\Desktop\25PROJE\RSS_Haber_cekme\RSS_Haber_cekme\obj\Debug\RSS_Haber_cekme.csproj.GenerateResource.cache
+C:\Users\furkan çalış\Desktop\25PROJE\RSS_Haber_cekme\RSS_Haber_cekme\obj\Debug\RSS_Haber_cekme.csproj.CoreCompileInputs.cache
+C:\Users\furkan çalış\Desktop\25PROJE\RSS_Haber_cekme\RSS_Haber_cekme\obj\Debug\RSS_Haber_cekme.exe
+C:\Users\furkan çalış\Desktop\25PROJE\RSS_Haber_cekme\RSS_Haber_cekme\obj\Debug\RSS_Haber_cekme.pdb
