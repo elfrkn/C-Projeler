@@ -1,0 +1,11 @@
+C:\Users\furkan çalış\Desktop\25PROJE\Pasaparola\Pasaparola\bin\Debug\Pasaparola.exe.config
+C:\Users\furkan çalış\Desktop\25PROJE\Pasaparola\Pasaparola\bin\Debug\Pasaparola.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Pasaparola\Pasaparola\bin\Debug\Pasaparola.pdb
+C:\Users\furkan çalış\Desktop\25PROJE\Pasaparola\Pasaparola\obj\Debug\Pasaparola.csproj.AssemblyReference.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Pasaparola\Pasaparola\obj\Debug\Pasaparola.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Pasaparola\Pasaparola\obj\Debug\Pasaparola.Form1.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Pasaparola\Pasaparola\obj\Debug\Pasaparola.Properties.Resources.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Pasaparola\Pasaparola\obj\Debug\Pasaparola.csproj.GenerateResource.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Pasaparola\Pasaparola\obj\Debug\Pasaparola.csproj.CoreCompileInputs.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Pasaparola\Pasaparola\obj\Debug\Pasaparola.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Pasaparola\Pasaparola\obj\Debug\Pasaparola.pdb
