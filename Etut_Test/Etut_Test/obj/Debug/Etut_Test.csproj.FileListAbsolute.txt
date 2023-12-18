@@ -1,0 +1,11 @@
+C:\Users\furkan çalış\Desktop\25PROJE\Etut_Test\Etut_Test\bin\Debug\Etut_Test.exe.config
+C:\Users\furkan çalış\Desktop\25PROJE\Etut_Test\Etut_Test\bin\Debug\Etut_Test.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Etut_Test\Etut_Test\bin\Debug\Etut_Test.pdb
+C:\Users\furkan çalış\Desktop\25PROJE\Etut_Test\Etut_Test\obj\Debug\Etut_Test.csproj.AssemblyReference.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Etut_Test\Etut_Test\obj\Debug\Etut_Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Etut_Test\Etut_Test\obj\Debug\Etut_Test.Form1.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Etut_Test\Etut_Test\obj\Debug\Etut_Test.Properties.Resources.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Etut_Test\Etut_Test\obj\Debug\Etut_Test.csproj.GenerateResource.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Etut_Test\Etut_Test\obj\Debug\Etut_Test.csproj.CoreCompileInputs.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Etut_Test\Etut_Test\obj\Debug\Etut_Test.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Etut_Test\Etut_Test\obj\Debug\Etut_Test.pdb
