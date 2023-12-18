@@ -1,0 +1,11 @@
+C:\Users\furkan çalış\Desktop\25PROJE\Petrol\Petrol\bin\Debug\Petrol.exe.config
+C:\Users\furkan çalış\Desktop\25PROJE\Petrol\Petrol\bin\Debug\Petrol.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Petrol\Petrol\bin\Debug\Petrol.pdb
+C:\Users\furkan çalış\Desktop\25PROJE\Petrol\Petrol\obj\Debug\Petrol.csproj.AssemblyReference.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Petrol\Petrol\obj\Debug\Petrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Petrol\Petrol\obj\Debug\Petrol.Form1.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Petrol\Petrol\obj\Debug\Petrol.Properties.Resources.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Petrol\Petrol\obj\Debug\Petrol.csproj.GenerateResource.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Petrol\Petrol\obj\Debug\Petrol.csproj.CoreCompileInputs.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Petrol\Petrol\obj\Debug\Petrol.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Petrol\Petrol\obj\Debug\Petrol.pdb
