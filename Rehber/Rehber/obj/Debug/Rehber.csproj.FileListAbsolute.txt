@@ -1,0 +1,11 @@
+C:\Users\furkan çalış\Desktop\25PROJE\Rehber\Rehber\obj\Debug\Rehber.csproj.AssemblyReference.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Rehber\Rehber\obj\Debug\Rehber.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Rehber\Rehber\obj\Debug\Rehber.Form1.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Rehber\Rehber\obj\Debug\Rehber.Properties.Resources.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Rehber\Rehber\obj\Debug\Rehber.csproj.GenerateResource.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Rehber\Rehber\obj\Debug\Rehber.csproj.CoreCompileInputs.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Rehber\Rehber\bin\Debug\Rehber.exe.config
+C:\Users\furkan çalış\Desktop\25PROJE\Rehber\Rehber\bin\Debug\Rehber.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Rehber\Rehber\bin\Debug\Rehber.pdb
+C:\Users\furkan çalış\Desktop\25PROJE\Rehber\Rehber\obj\Debug\Rehber.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Rehber\Rehber\obj\Debug\Rehber.pdb
