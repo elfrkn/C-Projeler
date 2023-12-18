@@ -1,0 +1,14 @@
+C:\Users\furkan çalış\Desktop\25PROJE\BankaTest\BankaTest\bin\Debug\BankaTest.exe.config
+C:\Users\furkan çalış\Desktop\25PROJE\BankaTest\BankaTest\bin\Debug\BankaTest.exe
+C:\Users\furkan çalış\Desktop\25PROJE\BankaTest\BankaTest\bin\Debug\BankaTest.pdb
+C:\Users\furkan çalış\Desktop\25PROJE\BankaTest\BankaTest\obj\Debug\BankaTest.csproj.AssemblyReference.cache
+C:\Users\furkan çalış\Desktop\25PROJE\BankaTest\BankaTest\obj\Debug\BankaTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan çalış\Desktop\25PROJE\BankaTest\BankaTest\obj\Debug\BankaTest.Detay.resources
+C:\Users\furkan çalış\Desktop\25PROJE\BankaTest\BankaTest\obj\Debug\BankaTest.Form1.resources
+C:\Users\furkan çalış\Desktop\25PROJE\BankaTest\BankaTest\obj\Debug\BankaTest.Kayit.resources
+C:\Users\furkan çalış\Desktop\25PROJE\BankaTest\BankaTest\obj\Debug\BankaTest.Properties.Resources.resources
+C:\Users\furkan çalış\Desktop\25PROJE\BankaTest\BankaTest\obj\Debug\BankaTest.csproj.GenerateResource.cache
+C:\Users\furkan çalış\Desktop\25PROJE\BankaTest\BankaTest\obj\Debug\BankaTest.csproj.CoreCompileInputs.cache
+C:\Users\furkan çalış\Desktop\25PROJE\BankaTest\BankaTest\obj\Debug\BankaTest.exe
+C:\Users\furkan çalış\Desktop\25PROJE\BankaTest\BankaTest\obj\Debug\BankaTest.pdb
+C:\Users\furkan çalış\Desktop\25PROJE\BankaTest\BankaTest\obj\Debug\BankaTest.Hareketler.resources
