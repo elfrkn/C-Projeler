@@ -1,0 +1,11 @@
+C:\Users\furkan çalış\Desktop\25PROJE\Pastane_Maliyet\Pastane_Maliyet\bin\Debug\Pastane_Maliyet.exe.config
+C:\Users\furkan çalış\Desktop\25PROJE\Pastane_Maliyet\Pastane_Maliyet\bin\Debug\Pastane_Maliyet.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Pastane_Maliyet\Pastane_Maliyet\bin\Debug\Pastane_Maliyet.pdb
+C:\Users\furkan çalış\Desktop\25PROJE\Pastane_Maliyet\Pastane_Maliyet\obj\Debug\Pastane_Maliyet.csproj.AssemblyReference.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Pastane_Maliyet\Pastane_Maliyet\obj\Debug\Pastane_Maliyet.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Pastane_Maliyet\Pastane_Maliyet\obj\Debug\Pastane_Maliyet.Form1.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Pastane_Maliyet\Pastane_Maliyet\obj\Debug\Pastane_Maliyet.Properties.Resources.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Pastane_Maliyet\Pastane_Maliyet\obj\Debug\Pastane_Maliyet.csproj.GenerateResource.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Pastane_Maliyet\Pastane_Maliyet\obj\Debug\Pastane_Maliyet.csproj.CoreCompileInputs.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Pastane_Maliyet\Pastane_Maliyet\obj\Debug\Pastane_Maliyet.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Pastane_Maliyet\Pastane_Maliyet\obj\Debug\Pastane_Maliyet.pdb
