@@ -1,0 +1,11 @@
+C:\Users\furkan çalış\Desktop\25PROJE\TriggerTest\TriggerTest\bin\Debug\TriggerTest.exe.config
+C:\Users\furkan çalış\Desktop\25PROJE\TriggerTest\TriggerTest\bin\Debug\TriggerTest.exe
+C:\Users\furkan çalış\Desktop\25PROJE\TriggerTest\TriggerTest\bin\Debug\TriggerTest.pdb
+C:\Users\furkan çalış\Desktop\25PROJE\TriggerTest\TriggerTest\obj\Debug\TriggerTest.csproj.AssemblyReference.cache
+C:\Users\furkan çalış\Desktop\25PROJE\TriggerTest\TriggerTest\obj\Debug\TriggerTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan çalış\Desktop\25PROJE\TriggerTest\TriggerTest\obj\Debug\TriggerTest.Form1.resources
+C:\Users\furkan çalış\Desktop\25PROJE\TriggerTest\TriggerTest\obj\Debug\TriggerTest.Properties.Resources.resources
+C:\Users\furkan çalış\Desktop\25PROJE\TriggerTest\TriggerTest\obj\Debug\TriggerTest.csproj.GenerateResource.cache
+C:\Users\furkan çalış\Desktop\25PROJE\TriggerTest\TriggerTest\obj\Debug\TriggerTest.csproj.CoreCompileInputs.cache
+C:\Users\furkan çalış\Desktop\25PROJE\TriggerTest\TriggerTest\obj\Debug\TriggerTest.exe
+C:\Users\furkan çalış\Desktop\25PROJE\TriggerTest\TriggerTest\obj\Debug\TriggerTest.pdb
