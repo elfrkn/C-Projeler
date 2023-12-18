@@ -1,0 +1,11 @@
+C:\Users\furkan çalış\Desktop\25PROJE\List_Yapisi\List_Yapisi\bin\Debug\List_Yapisi.exe.config
+C:\Users\furkan çalış\Desktop\25PROJE\List_Yapisi\List_Yapisi\bin\Debug\List_Yapisi.exe
+C:\Users\furkan çalış\Desktop\25PROJE\List_Yapisi\List_Yapisi\bin\Debug\List_Yapisi.pdb
+C:\Users\furkan çalış\Desktop\25PROJE\List_Yapisi\List_Yapisi\obj\Debug\List_Yapisi.csproj.AssemblyReference.cache
+C:\Users\furkan çalış\Desktop\25PROJE\List_Yapisi\List_Yapisi\obj\Debug\List_Yapisi.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan çalış\Desktop\25PROJE\List_Yapisi\List_Yapisi\obj\Debug\List_Yapisi.Form1.resources
+C:\Users\furkan çalış\Desktop\25PROJE\List_Yapisi\List_Yapisi\obj\Debug\List_Yapisi.Properties.Resources.resources
+C:\Users\furkan çalış\Desktop\25PROJE\List_Yapisi\List_Yapisi\obj\Debug\List_Yapisi.csproj.GenerateResource.cache
+C:\Users\furkan çalış\Desktop\25PROJE\List_Yapisi\List_Yapisi\obj\Debug\List_Yapisi.csproj.CoreCompileInputs.cache
+C:\Users\furkan çalış\Desktop\25PROJE\List_Yapisi\List_Yapisi\obj\Debug\List_Yapisi.exe
+C:\Users\furkan çalış\Desktop\25PROJE\List_Yapisi\List_Yapisi\obj\Debug\List_Yapisi.pdb
