@@ -1,0 +1,11 @@
+C:\Users\furkan çalış\Desktop\25PROJE\Nesne_Hareket\Nesne_Hareket\bin\Debug\Nesne_Hareket.exe.config
+C:\Users\furkan çalış\Desktop\25PROJE\Nesne_Hareket\Nesne_Hareket\bin\Debug\Nesne_Hareket.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Nesne_Hareket\Nesne_Hareket\bin\Debug\Nesne_Hareket.pdb
+C:\Users\furkan çalış\Desktop\25PROJE\Nesne_Hareket\Nesne_Hareket\obj\Debug\Nesne_Hareket.csproj.AssemblyReference.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Nesne_Hareket\Nesne_Hareket\obj\Debug\Nesne_Hareket.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Nesne_Hareket\Nesne_Hareket\obj\Debug\Nesne_Hareket.Form1.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Nesne_Hareket\Nesne_Hareket\obj\Debug\Nesne_Hareket.Properties.Resources.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Nesne_Hareket\Nesne_Hareket\obj\Debug\Nesne_Hareket.csproj.GenerateResource.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Nesne_Hareket\Nesne_Hareket\obj\Debug\Nesne_Hareket.csproj.CoreCompileInputs.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Nesne_Hareket\Nesne_Hareket\obj\Debug\Nesne_Hareket.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Nesne_Hareket\Nesne_Hareket\obj\Debug\Nesne_Hareket.pdb
