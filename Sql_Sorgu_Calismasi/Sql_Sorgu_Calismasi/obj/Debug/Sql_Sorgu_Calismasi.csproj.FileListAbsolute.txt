@@ -1,0 +1,11 @@
+C:\Users\furkan çalış\Desktop\25PROJE\Sql_Sorgu_Calismasi\Sql_Sorgu_Calismasi\bin\Debug\Sql_Sorgu_Calismasi.exe.config
+C:\Users\furkan çalış\Desktop\25PROJE\Sql_Sorgu_Calismasi\Sql_Sorgu_Calismasi\bin\Debug\Sql_Sorgu_Calismasi.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Sql_Sorgu_Calismasi\Sql_Sorgu_Calismasi\bin\Debug\Sql_Sorgu_Calismasi.pdb
+C:\Users\furkan çalış\Desktop\25PROJE\Sql_Sorgu_Calismasi\Sql_Sorgu_Calismasi\obj\Debug\Sql_Sorgu_Calismasi.csproj.AssemblyReference.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Sql_Sorgu_Calismasi\Sql_Sorgu_Calismasi\obj\Debug\Sql_Sorgu_Calismasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Sql_Sorgu_Calismasi\Sql_Sorgu_Calismasi\obj\Debug\Sql_Sorgu_Calismasi.Form1.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Sql_Sorgu_Calismasi\Sql_Sorgu_Calismasi\obj\Debug\Sql_Sorgu_Calismasi.Properties.Resources.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Sql_Sorgu_Calismasi\Sql_Sorgu_Calismasi\obj\Debug\Sql_Sorgu_Calismasi.csproj.GenerateResource.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Sql_Sorgu_Calismasi\Sql_Sorgu_Calismasi\obj\Debug\Sql_Sorgu_Calismasi.csproj.CoreCompileInputs.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Sql_Sorgu_Calismasi\Sql_Sorgu_Calismasi\obj\Debug\Sql_Sorgu_Calismasi.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Sql_Sorgu_Calismasi\Sql_Sorgu_Calismasi\obj\Debug\Sql_Sorgu_Calismasi.pdb
