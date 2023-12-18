@@ -1,0 +1,11 @@
+C:\Users\furkan çalış\Desktop\25PROJE\Resim\Resim\bin\Debug\Resim.exe.config
+C:\Users\furkan çalış\Desktop\25PROJE\Resim\Resim\bin\Debug\Resim.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Resim\Resim\bin\Debug\Resim.pdb
+C:\Users\furkan çalış\Desktop\25PROJE\Resim\Resim\obj\Debug\Resim.csproj.AssemblyReference.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Resim\Resim\obj\Debug\Resim.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Resim\Resim\obj\Debug\Resim.Form1.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Resim\Resim\obj\Debug\Resim.Properties.Resources.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Resim\Resim\obj\Debug\Resim.csproj.GenerateResource.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Resim\Resim\obj\Debug\Resim.csproj.CoreCompileInputs.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Resim\Resim\obj\Debug\Resim.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Resim\Resim\obj\Debug\Resim.pdb
