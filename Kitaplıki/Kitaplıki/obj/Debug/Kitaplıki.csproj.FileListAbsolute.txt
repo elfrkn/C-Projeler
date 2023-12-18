@@ -1,0 +1,11 @@
+C:\Users\furkan çalış\Desktop\25PROJE\Kitaplıki\Kitaplıki\bin\Debug\Kitaplıki.exe.config
+C:\Users\furkan çalış\Desktop\25PROJE\Kitaplıki\Kitaplıki\bin\Debug\Kitaplıki.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Kitaplıki\Kitaplıki\bin\Debug\Kitaplıki.pdb
+C:\Users\furkan çalış\Desktop\25PROJE\Kitaplıki\Kitaplıki\obj\Debug\Kitaplıki.csproj.AssemblyReference.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Kitaplıki\Kitaplıki\obj\Debug\Kitaplıki.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Kitaplıki\Kitaplıki\obj\Debug\Kitaplıki.Form1.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Kitaplıki\Kitaplıki\obj\Debug\Kitaplıki.Properties.Resources.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Kitaplıki\Kitaplıki\obj\Debug\Kitaplıki.csproj.GenerateResource.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Kitaplıki\Kitaplıki\obj\Debug\Kitaplıki.csproj.CoreCompileInputs.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Kitaplıki\Kitaplıki\obj\Debug\Kitaplıki.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Kitaplıki\Kitaplıki\obj\Debug\Kitaplıki.pdb
