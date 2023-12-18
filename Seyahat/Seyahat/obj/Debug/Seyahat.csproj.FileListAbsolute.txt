@@ -1,0 +1,11 @@
+C:\Users\furkan çalış\Desktop\25PROJE\Seyahat\Seyahat\bin\Debug\Seyahat.exe.config
+C:\Users\furkan çalış\Desktop\25PROJE\Seyahat\Seyahat\bin\Debug\Seyahat.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Seyahat\Seyahat\bin\Debug\Seyahat.pdb
+C:\Users\furkan çalış\Desktop\25PROJE\Seyahat\Seyahat\obj\Debug\Seyahat.csproj.AssemblyReference.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Seyahat\Seyahat\obj\Debug\Seyahat.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Seyahat\Seyahat\obj\Debug\Seyahat.Form1.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Seyahat\Seyahat\obj\Debug\Seyahat.Properties.Resources.resources
+C:\Users\furkan çalış\Desktop\25PROJE\Seyahat\Seyahat\obj\Debug\Seyahat.csproj.GenerateResource.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Seyahat\Seyahat\obj\Debug\Seyahat.csproj.CoreCompileInputs.cache
+C:\Users\furkan çalış\Desktop\25PROJE\Seyahat\Seyahat\obj\Debug\Seyahat.exe
+C:\Users\furkan çalış\Desktop\25PROJE\Seyahat\Seyahat\obj\Debug\Seyahat.pdb
