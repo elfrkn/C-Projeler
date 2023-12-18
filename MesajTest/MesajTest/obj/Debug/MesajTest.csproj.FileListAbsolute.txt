@@ -1,0 +1,12 @@
+C:\Users\furkan çalış\Desktop\25PROJE\MesajTest\MesajTest\obj\Debug\MesajTest.csproj.AssemblyReference.cache
+C:\Users\furkan çalış\Desktop\25PROJE\MesajTest\MesajTest\obj\Debug\MesajTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\furkan çalış\Desktop\25PROJE\MesajTest\MesajTest\obj\Debug\MesajTest.Form1.resources
+C:\Users\furkan çalış\Desktop\25PROJE\MesajTest\MesajTest\obj\Debug\MesajTest.Form2.resources
+C:\Users\furkan çalış\Desktop\25PROJE\MesajTest\MesajTest\obj\Debug\MesajTest.Properties.Resources.resources
+C:\Users\furkan çalış\Desktop\25PROJE\MesajTest\MesajTest\obj\Debug\MesajTest.csproj.GenerateResource.cache
+C:\Users\furkan çalış\Desktop\25PROJE\MesajTest\MesajTest\obj\Debug\MesajTest.csproj.CoreCompileInputs.cache
+C:\Users\furkan çalış\Desktop\25PROJE\MesajTest\MesajTest\bin\Debug\MesajTest.exe.config
+C:\Users\furkan çalış\Desktop\25PROJE\MesajTest\MesajTest\bin\Debug\MesajTest.exe
+C:\Users\furkan çalış\Desktop\25PROJE\MesajTest\MesajTest\bin\Debug\MesajTest.pdb
+C:\Users\furkan çalış\Desktop\25PROJE\MesajTest\MesajTest\obj\Debug\MesajTest.exe
+C:\Users\furkan çalış\Desktop\25PROJE\MesajTest\MesajTest\obj\Debug\MesajTest.pdb
